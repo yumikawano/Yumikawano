@@ -27,5 +27,7 @@
   <a href="https://www.linkedin.com/in/yumi-kawano-b2999516a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
   ![Animação de cobra](https://github.com/yumikawano/yumikawano/blob/output/github-contribution-grid-snake.svg)
+  
+  !Anima  de cobra](https://github/Yumikawano/Yumikawano/blob/output-contribution-grid-snake.svg)
  
 </div>
