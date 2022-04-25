@@ -20,10 +20,11 @@
   <img align="center" alt="Yumi-Typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
   <img align="center" alt="Yumi-Nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="right" alt="Yumi-pic" height="150" style="border-radius:50px;" src="https://i.pinimg.com/564x/59/6c/cc/596ccc015836fb1997736283aa60aa73.jpg">
+  ![Snake animation](https://github.com/yumikawano/Yumikawano/blob/output/github-contribution-grid-snake.svg)
 </div>
   
   ##
-   ![Snake animation](https://github.com/yumikawano/Yumikawano/blob/output/github-contribution-grid-snake.svg)
+
 <div>
   <a href="https://www.instagram.com/yumi.kawanod/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:yumikawano5412@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
