@@ -1,7 +1,8 @@
 ### Olá! Eu sou a Yumi kawano, desenvolvedora de software! 👋
 
-- 🔭 Hoje trabalho com front-end
-- 🌱 Estudando react e node.js
+- 🔭 Buscando emprego em desenvolvimento front end
+- 🌱 Estudando: Desenvolvimento de sites Web | Mobile 
+- 💞️ Linguagens de programação:  HTML, CSS, JavaScript, BootStrap, React.Js, React Native, TypeScript, Redux, Node,js, Git | GitHub
 - 😄 Pronouns: ela / dela
 
 <div align="center">
