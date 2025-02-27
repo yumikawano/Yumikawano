@@ -1,9 +1,9 @@
 ### Olá! Eu sou a Yumi kawano, desenvolvedora de software! 👋
 
-- 🔭 Buscando emprego em desenvolvimento front end
-- 🌱 Estudando: Desenvolvimento de sites Web | Mobile 
-- 💞️ Linguagens de programação: JavaScript, BootStrap, React.Js, React Native, TypeScript, Redux, Node,js, Git | GitHub
-- 😄 Pronouns: ela / dela
+- 💻 Trabalho como Desenvolvedora Front End e Analista de QA
+- 🎓 Graduada em Análise e Desenvolvimento de Sistemas eespecialista em Desenvolvimento Fullstack
+- 💬 Pergunte-me sobre qualquer coisa relacionada a desenvolvimento web, front-end e carreira em tecnologia
+- 💞️ Linguagens de programação: JavaScript, BootStrap, React.Js, TypeScript, Redux, Node,js, Git | GitHub
 
 <div align="center">
   <a href="https://github.com/yumikawano">
