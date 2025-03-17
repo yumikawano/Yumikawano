@@ -1,7 +1,7 @@
 ### Olá! Eu sou a Yumi kawano, desenvolvedora de software! 👋
 
 - 💻 Trabalho como QA Engineer
-- 🎓 Graduada em Análise e Desenvolvimento de Sistemas eespecialista em Desenvolvimento Fullstack
+- 🎓 Graduada em Análise e Desenvolvimento de Sistemas e especialista em Desenvolvimento Fullstack
 - 💬 Pergunte-me sobre qualquer coisa relacionada a testes de software, qualidade de software, desenvolvimento web e carreira em tecnologia
 - 💞️ Linguagens de programação: JavaScript, Cypress, Selenium, Postman, Git | GitHub
 
