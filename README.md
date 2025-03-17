@@ -1,4 +1,4 @@
-### Olá! Eu sou a Yumi kawano, desenvolvedora de software! 👋
+### Olá! Eu sou a Yumi kawano, QA Engineer! 👋
 
 - 💻 Trabalho como QA Engineer
 - 🎓 Graduada em Análise e Desenvolvimento de Sistemas e especialista em Desenvolvimento Fullstack
